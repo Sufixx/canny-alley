@@ -1,0 +1,18 @@
+{
+ "slug": "86-ostatni-tramwaj",
+ "title": "Ostatni tramwaj",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, cold wave waltz in 3/4 time, accordion-like synth, brushed drums, guitar and synth instrumental duet, bridge slowing almost to a stop, tempo returning with full band, tram bell at the end. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes; young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - cold wave waltz in 3/4, accordion-like synth, brushed drums]\n\n[Verse 1 - raspy male vocal]\nOstatni tramwaj, dwunasta dziesięć\nTy przy oknie, ja przy drzwiach\nTrzy przystanki chciałem powiedzieć\nCoś, co utknęło mi w ustach\n\n[Verse 2 - deep low female vocal]\nWidziałam, jak patrzysz w szybę\nNa moje odbicie, nie na mnie\nTrzy przystanki chciałam spytać\nCzy też wracasz tak samotnie\n\n[Chorus - waltz, both voices]\nOstatni tramwaj przez śpiące miasto\nDwoje ludzi, jedna noc\nOstatni tramwaj, ty wysiadasz\nA ja jadę jeszcze przez moment\n\n[Instrumental - waltzing synth and guitar duet]\n\n[Bridge - slowing down, almost stopping]\nGdybym wstał\nGdybyś się odwróciła\n\n[Climax - tempo returns, full band, both voices]\nOstatni tramwaj, wracam z pętli\nBiegnę przez pusty plac\nOstatni tramwaj, czy jeszcze stoisz\nPod latarnią, jak tamten raz\n\n[Outro - waltz fades, a tram bell]\n",
+ "language": "pl",
+ "bpm": 150,
+ "keyscale": "F minor",
+ "duration": 196,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1012,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

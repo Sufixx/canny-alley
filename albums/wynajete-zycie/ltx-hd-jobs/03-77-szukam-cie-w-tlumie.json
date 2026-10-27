@@ -1,0 +1,20 @@
+{
+ "slug": "77-szukam-cie-w-tlumie",
+ "image": "in/77-szukam-cie-w-tlumie.png",
+ "prompt": "The commuters stand still waiting on the bright platform, only breathing and shifting their weight slightly, the two people in the middle turn their heads slowly and blink, the train stands with its doors open, the bright ceiling lights stay the same. Static locked-off camera, no cuts, no zoom. The lighting stays the same, no light turns off, no fade to black. Film grain, calm, cinematic.",
+ "width": 1920,
+ "height": 1088,
+ "base_width": 960,
+ "base_height": 544,
+ "two_stage": true,
+ "frames": 65,
+ "fps": 24,
+ "seed": 7,
+ "anchors": [
+  [
+   0,
+   1.0
+  ]
+ ],
+ "audio": false
+}

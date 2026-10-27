@@ -1,0 +1,18 @@
+{
+ "slug": "82-szklanka-wody",
+ "title": "Szklanka wody",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, fragile slowcore, sparse clean guitar and soft brushed drums, very quiet, a slowdown to almost silence with one guitar note, then a slow heavy guitar swell to an emotional culmination, fading to a single guitar. Vocals: young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate; young adult female vocal in her twenties, high clear airy soprano, sharp, crystalline and ethereal. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - sparse clean guitar, soft brushes]\n\n[Verse 1 - deep low female vocal, very quiet]\nSzklanka wody stoi trzeci dzień\nNie mam siły, żeby ją wypić\nZa oknem ktoś się śmieje głośno\nJakby świat się nie skończył\n\n[Verse 2 - deep low female vocal]\nTelefon brzęczy, nie odbiorę\nPowiem jutro, że spałam\nBo jak wytłumaczyć komuś\nŻe ciężko jest podnieść rękę\n\n[Slowdown - almost silence, one guitar note]\n\n[Bridge - high airy female vocal, gentle]\nNie musisz dziś być silna\nWystarczy, że oddychasz\nJeden łyk, jeden krok\nJa tu jestem, zostań\n\n[Climax - slow heavy guitars swell, both voices]\nJeden łyk wody\nJeden promień w szparze zasłon\nJeszcze nie dziś, ale może\nMoże jutro wstanę\n\n[Outro - fading to a single guitar]\n",
+ "language": "pl",
+ "bpm": 64,
+ "keyscale": "Eb minor",
+ "duration": 169,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1008,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

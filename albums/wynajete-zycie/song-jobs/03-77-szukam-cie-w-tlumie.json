@@ -1,0 +1,18 @@
+{
+ "slug": "77-szukam-cie-w-tlumie",
+ "title": "Szukam cię w tłumie",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, bittersweet shoegaze dream pop cold wave, shimmering reverse guitars, half-time sparse bridge, swirling guitar solo building to a huge wall-of-sound climax, feedback outro. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes; young adult female vocal in her twenties, high clear airy soprano, sharp, crystalline and ethereal. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - shimmering reverse guitars, slow swell]\n\n[Verse 1 - raspy male vocal, soft]\nNa peronie tysiąc twarzy\nKażda gdzieś się spieszy, gna\nSzukam oczu, które zostaną\nDłużej niż jedna sekunda\n\n[Verse 2 - raspy male vocal]\nAplikacja mówi: dopasowano\nPotem cisza, potem nic\nUczę się kochać przez szybę\nW prawo, w lewo, jakoś żyj\n\n[Chorus - wall of guitars]\nSzukam cię w tłumie\nChoć nie wiem, jak masz na imię\nSzukam cię w tłumie\nMoże mijasz mnie właśnie teraz\n\n[Bridge - high airy female vocal, half-time, sparse]\nJestem tu, po drugiej stronie\nTeż patrzę w ten sam szary tłum\nTeż liczę stacje, też gubię dłonie\nTeż czekam, aż ktoś powie: chodź\n\n[Guitar solo - shoegaze, swirling, building to climax]\n\n[Chorus - both voices, climax, huge wall of sound]\nZnajdę cię w tłumie\nChoć jeszcze nie wiem, jak masz na imię\nZnajdę cię w tłumie\nZanim zgaśnie ostatni pociąg\n\n[Outro - feedback fading, high airy female vocal]\nChodź\n",
+ "language": "pl",
+ "bpm": 96,
+ "keyscale": "D major",
+ "duration": 241,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1003,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

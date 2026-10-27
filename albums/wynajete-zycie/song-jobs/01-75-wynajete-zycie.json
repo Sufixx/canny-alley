@@ -1,0 +1,18 @@
+{
+ "slug": "75-wynajete-zycie",
+ "title": "Wynajęte życie",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, driving urgent post-punk, galloping bass, sudden drop to bass and voice, noisy chorus-drenched guitar solo, louder final chorus. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes; young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - driving bass and drum machine, chorus guitar]\n\n[Verse 1 - raspy male vocal]\nTrzecie piętro, cudze ściany\nCudzy klucz i cudzy kran\nPłacę co miesiąc za to, żeby\nMieć gdzie zgasić światło sam\n\n[Pre-Chorus - rising]\nWłaściciel pisze, że od wiosny\nZnowu trochę więcej, bo\n\n[Chorus - raspy male vocal, loud]\nWynajęte życie, wynajęty sen\nWszystko, co mam, zmieszczę w jeden dzień\nWynajęte życie, okno na parking\nNic tu nie jest moje oprócz mnie\n\n[Verse 2 - deep low female vocal]\nKartony w szafie, nierozpakowane\nBo po co, skoro znowu w drogę\nZdjęcia na ścianie tylko na taśmie\nŻeby nie zostawić śladu po sobie\n\n[Breakdown - sudden drop, bass and voice only]\nIle metrów ma moja cisza\nIle kosztuje jeden spokojny dzień\n\n[Guitar solo - noisy, chorus-drenched]\n\n[Chorus - both voices, louder]\nWynajęte życie, kaucja za mój strach\nUmowa na rok, a potem znów od nowa\nWynajęte życie, cudzy stary dach\nKiedyś będę miał swój, tak sobie mówię\n\n[Outro - fading, deep low female vocal]\nKlucz zostawię pod wycieraczką\nKlucz zostawię\n",
+ "language": "pl",
+ "bpm": 146,
+ "keyscale": "E minor",
+ "duration": 195,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1001,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

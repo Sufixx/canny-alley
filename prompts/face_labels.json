@@ -1,0 +1,23 @@
+{
+  "_note": "Which band member each detected face is (indices into concepts/fixed/faces.json, from detect_faces.py). R = red-haired singer, M = moustached keyboardist, B = blonde drummer, D = brown-haired singer, - = skip (crowd).",
+  "00-test": "RMBD",
+  "a01-flash-selfie-s1": "RMBD",
+  "a06-frontman-portrait-s1": "R",
+  "a08-photo-booth-s1": "RBDM",
+  "b01-garage-flash-s6": "RMBD",
+  "b02-couch-press-photo-s3": "RMBD",
+  "b03-alley-neon-sign-s6": "RMBD",
+  "b04-basement-gig-s1": "RBD",
+  "b05-vhs-crt-s2": "RMBD",
+  "b05-vhs-crt-s6": "RMBD",
+  "b08-after-show-s3": "RMBD",
+  "b09-motion-ghosts-s3": "RMBD",
+  "b10-spray-painted-door-s1": "RMBD",
+  "b11-synth-table-s3": "RMBD",
+  "c01-from-the-crowd-s1": "RMBD",
+  "c02-singer-scream-s1": "---R----",
+  "c04-drummer-hit-s1": "B",
+  "w01-snowy-bench-s1": "RMBD",
+  "w03-snowball-fight-s1": "RMBD",
+  "w07-playground-night-s1": "RMBD"
+}

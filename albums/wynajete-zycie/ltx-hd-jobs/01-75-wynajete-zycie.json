@@ -1,0 +1,20 @@
+{
+ "slug": "75-wynajete-zycie",
+ "image": "in/75-wynajete-zycie.png",
+ "prompt": "Rain streaks run slowly down the window glass, car headlights outside sweep softly across the ceiling, the bare bulb keeps glowing steadily, the woman's hair stirs slightly. Static locked-off camera, no cuts, no zoom. The lighting stays the same, no light turns off, no fade to black. Gentle natural motion: the people breathe, blink and move slightly; small details move slowly. Film grain, calm, cinematic.",
+ "width": 1920,
+ "height": 1088,
+ "base_width": 960,
+ "base_height": 544,
+ "two_stage": true,
+ "frames": 97,
+ "fps": 24,
+ "seed": 7,
+ "anchors": [
+  [
+   0,
+   1.0
+  ]
+ ],
+ "audio": false
+}

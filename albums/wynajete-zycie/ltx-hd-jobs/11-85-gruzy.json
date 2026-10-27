@@ -1,0 +1,20 @@
+{
+ "slug": "85-gruzy",
+ "image": "in/85-gruzy.png",
+ "prompt": "Dust drifts slowly through the low sunlight, the small plant trembles in a light wind, grey clouds move across the sky, the two men barely move. Static locked-off camera, no cuts, no zoom. The lighting stays the same, no light turns off, no fade to black. Gentle natural motion: the people breathe, blink and move slightly; small details move slowly. Film grain, calm, cinematic.",
+ "width": 1920,
+ "height": 1088,
+ "base_width": 960,
+ "base_height": 544,
+ "two_stage": true,
+ "frames": 97,
+ "fps": 24,
+ "seed": 7,
+ "anchors": [
+  [
+   0,
+   1.0
+  ]
+ ],
+ "audio": false
+}

@@ -1,0 +1,18 @@
+{
+ "slug": "85-gruzy",
+ "title": "Gruzy",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, industrial cold wave, metallic percussion, heavy distorted bass, sudden silence then a crushing half-time groove, screaming distorted guitar solo, abrupt ending. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - metallic percussion, distorted bass drone]\n\n[Verse 1 - raspy male vocal]\nRano w radiu inflacja\nW południe susza, wieczorem wojna\nDziadek mówił, że będzie lepiej\nDziadek nie znał słowa kryzys\n\n[Verse 2 - raspy male vocal]\nRzeki płyną jak kiedyś\nTylko nie ma w nich ryb\nLasy płoną w telewizji\nMy płoniemy w środku, cicho, bez dymu\n\n[Chorus - heavy, distorted]\nŻyjemy w gruzach\nKtórych nikt nie widzi\nBudujemy domy z kart\nW świecie, co się sypie\n\n[Drop - sudden silence, then half-time heavy groove]\n\n[Verse 3 - raspy male vocal, strained]\nKtoś to musi posprzątać\nKtoś to musi wziąć na plecy\nPatrzę w lustro, patrzę w okno\nWygląda na to, że my\n\n[Guitar solo - distorted, screaming]\n\n[Chorus - raspy male vocal, screaming]\nŻyjemy w gruzach\nAle ciągle żyjemy\nZ gruzów da się coś zbudować\nJeśli razem je podniesiemy\n\n[Outro - metallic percussion, abrupt end]\n",
+ "language": "pl",
+ "bpm": 100,
+ "keyscale": "Bb minor",
+ "duration": 210,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1011,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

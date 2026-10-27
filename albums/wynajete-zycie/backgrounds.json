@@ -1,0 +1,88 @@
+{
+  "_note": "Song backgrounds for 'Wynajęte życie' (Canny Alley), v2 (2026-10-27): every background shows band members in everyday clothes that fit the scene, part of it or just standing there, never stage clothes or instruments. Cover = scene + the members named in 'members' (fixed face descriptions) + shared style; Z-Image Turbo 1536x832. Motion = LTX-2.3 image-to-video prompt + shared motion style: a calm looping background, not a music video. v1 (empty scenes) is kept in covers/wynajete-zycie/v1-empty/.",
+  "members": {
+    "R": "a tall skinny young man in his late twenties with long straight ginger-red hair and slightly yellow-tinted round glasses",
+    "M": "a short plump young man in his late twenties with black hair and a natural, well-groomed waxed moustache",
+    "B": "an average-looking fit young blonde woman in her twenties with metal dental braces",
+    "D": "an attractive young woman in her late twenties with long brown hair, a nose ring, a lip piercing and dark smoky eye makeup"
+  },
+  "style": "Grainy 35mm film photograph, cold wave album art, muted desaturated colours with a cold violet-blue cast and one warm light source, deep shadows, quiet and melancholic, contemporary Poland, real place, real people, candid, they belong to the scene and are not posing as a band, no musical instruments, no text, no letters.",
+  "motion_style": "Static locked-off camera, no camera movement, no cuts, no zoom. The lighting and brightness stay exactly the same for the whole clip: no light turns off, no fade to black, no flashing. The people stay almost still, only breathing and tiny movements; small details move slowly and subtly. Film grain, calm, hypnotic, seamless.",
+  "songs": {
+    "75-wynajete-zycie": {
+      "who": "RD",
+      "cover": "A small rented room in an old tenement at night: unpacked cardboard boxes stacked against a wall, a bare mattress on the floor, a single bare light bulb, a window onto a car park lit by sodium lamps. {R}, in a faded hoodie and grey sweatpants, sits on the mattress holding a key ring; {D}, in an oversized cardigan and wool socks, leans on the window frame looking out.",
+      "motion": "Rain streaks run slowly down the window glass, car headlights outside sweep softly across the ceiling, the bare bulb keeps glowing steadily, the woman's hair stirs slightly."
+    },
+    "76-nocna-zmiana": {
+      "who": "D",
+      "cover": "An empty warehouse aisle at night between tall pallet racks under harsh cold fluorescent tubes, a lone pallet jack. {D}, in a high-visibility vest over a black fleece, work gloves and a handheld barcode scanner, stands still in the middle of the aisle, tired, a paper cup of vending machine coffee steaming on a pallet next to her.",
+      "motion": "Steam rises slowly from the coffee cup, dust drifts in the steady fluorescent light, the woman barely moves."
+    },
+    "77-szukam-cie-w-tlumie": {
+      "who": "RB",
+      "cover": "A modern metro platform brightly lit by white ceiling lights at rush hour, clean pale tiles, a train standing at the platform with its doors open, commuters in winter coats walking slowly, slightly blurred. {R}, in a long dark parka and a scarf, stands still in the middle of the crowd looking around; a few metres behind him {B}, in a pastel puffer jacket and a beanie, also stands still. Bright, evenly lit scene.",
+      "motion": "Commuters walk slowly past the two people standing still, the two breathe and turn their heads slightly, the bright ceiling lights stay the same."
+    },
+    "78-komentarze": {
+      "who": "R",
+      "cover": "A dark bedroom at 3 am. {R}, in a wrinkled t-shirt and boxer shorts, sits on the edge of a messy bed hunched over a smartphone, its cold screen light on his face and glasses the only light in the room, an overflowing ashtray and a clock radio with red digits beside him.",
+      "motion": "The phone screen keeps glowing steadily on his face, faint smoke curls slowly from the ashtray, he barely moves."
+    },
+    "79-syreny": {
+      "who": "DBM",
+      "cover": "A flat rooftop of a grey apartment block at dusk, a rooftop air-raid siren on a pole, distant smoke on the horizon under a heavy sky with a faint red glow. {D} in a long dark wool coat, {B} in a padded jacket with a scarf over her mouth and {M} in a worn military-style parka stand side by side at the edge looking at the horizon, seen from behind and slightly from the side.",
+      "motion": "Smoke drifts slowly on the horizon, clouds crawl across the sky, coats and hair move slightly in the wind."
+    },
+    "80-doroslosc": {
+      "who": "RD",
+      "cover": "A small bright kitchen at dawn, a table by the window covered with unopened bills and envelopes, a laptop, a wilting potted plant, plain bare painted walls with nothing hanging on them. {R}, in a cheap office shirt with a loosened tie, drinks tea standing; {D}, in a bathrobe with her hair in a messy bun, sits at the table frowning at the bills. No posters, no pictures on the walls, no writing anywhere.",
+      "motion": "Steam rises slowly from the tea, the curtain sways gently in a draught, the man sips his tea, the woman turns a page of the bills, the bright morning light stays the same."
+    },
+    "81-kredyt-na-trzydziesci-lat": {
+      "who": "DR",
+      "cover": "A wet empty street at night in front of a huge block of flats under construction with a tower crane and a lit bank billboard showing a smiling generic couple with no readable text. {D}, in a beige trench coat holding a folder of documents, and {R}, in a cheap suit jacket over a hoodie, stand under one umbrella looking up at the unfinished building.",
+      "motion": "Rain falls softly through the streetlamp light, the crane's small red warning light glows, the couple stays still under the umbrella."
+    },
+    "82-szklanka-wody": {
+      "who": "DB",
+      "cover": "A dim bedroom with closed curtains, a thin blade of daylight cutting through a gap and hitting a glass of water on the bedside table. {D}, in an old oversized t-shirt, lies curled up on the unmade bed facing the wall; {B}, in a cosy knitted sweater and jeans, sits quietly on the floor leaning against the bed, holding her hand.",
+      "motion": "Dust particles float slowly in the blade of light, the light on the water surface trembles gently, the curtain barely moves, the two women breathe slowly."
+    },
+    "83-blok-siodmy": {
+      "who": "RDM",
+      "cover": "A Polish housing estate courtyard at dusk: an old metal carpet-beating rack, a playground with rusty swings, a ten-storey prefab block with one orange lit window on the fourth floor, autumn leaves on the ground. {R} in a denim jacket and {M} in a tracksuit top lean on the carpet-beating rack like teenagers used to; {D} in a leather jacket sits on a swing, all looking up at the lit window.",
+      "motion": "The swing sways slowly, leaves drift across the ground, the orange window light glows softly, the people stay almost still."
+    },
+    "84-ekran": {
+      "who": "B",
+      "cover": "A dark small room at night. {B}, in an oversized hoodie and pyjama shorts, sits cross-legged on the floor lit only by the cold blue glow of a laptop on her knees, a window with a city at night behind her, unlit fairy lights on the wall.",
+      "motion": "The steady blue screen glow lights her face, distant city lights twinkle softly through the window, she stays still."
+    },
+    "85-gruzy": {
+      "who": "RM",
+      "cover": "Ruins of a half-collapsed industrial building in a grey wasteland, twisted rebar, dust in the air, low cold sun. {R}, in a dusty work jacket and a respirator mask pulled down to his neck, and {M}, in a hard hat and a high-visibility vest, stand among the rubble; between them a small green plant grows through cracked concrete.",
+      "motion": "Dust drifts slowly through the low sunlight, the small plant trembles in a light wind, grey clouds move across the sky, the two men barely move."
+    },
+    "86-ostatni-tramwaj": {
+      "who": "RD",
+      "cover": "An old tram at night at a terminus loop, warm light inside, wet cobblestones reflecting it, light fog, a single streetlamp. Inside the nearly empty tram {D}, in a long winter coat and a beret, sits by the window; outside under the streetlamp {R}, in a bomber jacket with hands in his pockets, stands looking at her.",
+      "motion": "Fog drifts slowly past the streetlamp, reflections shimmer softly on the wet cobblestones, the tram's warm interior light stays steady, the two stay still."
+    },
+    "87-pod-prad": {
+      "who": "RMBD",
+      "cover": "A dark river at night under a concrete bridge, strong current with white foam, bridge lamps reflected in the water. On a narrow concrete embankment the four friends walk in a line against a strong wind, upstream: {R} in a windbreaker, {M} in a rain poncho, {B} in a sporty rain jacket, {D} in a long coat with the hood up.",
+      "motion": "The river current flows fast with foam and ripples, the reflections of the lamps shimmer, rain and wind push at their coats, the four stay in place."
+    },
+    "88-przetrwamy": {
+      "who": "RMBD",
+      "cover": "A long snowy road between bare trees toward a faint sunrise, cold blue landscape, a warm thin line of light at the horizon. The four friends, seen from behind and a little from the side, walk close together arm in arm in winter clothes: {R} in a long camel coat, {M} in a puffy black down jacket and beanie, {B} in a pastel ski jacket and knitted headband, {D} in a long dark wool coat and fluffy hat.",
+      "motion": "Snow falls slowly, the faint sunrise glow stays steady at the horizon, the bare branches sway a little, the four stay together almost still."
+    },
+    "89-swiatlo-w-oknie-naprzeciwko": {
+      "who": "DR",
+      "cover": "Night view across a narrow courtyard between two blocks of flats, almost all windows dark. In a warm lit kitchen window on the fourth floor of the opposite block {R}, in a stretched sweater, sits at a small table with a mug; in the dark foreground window {D}, in a loose cardigan, stands in silhouette with her hand on the glass, watching his light.",
+      "motion": "The warm kitchen window light glows steadily, a little snow falls in the dark courtyard, the two figures stay still."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "slug": "83-blok-siodmy",
+ "title": "Blok siódmy",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, melancholic trip-hop tinged cold wave, slow dusty breakbeat, warm analog synth, echoing delay guitar solo, call-and-response vocals, bridge dropping to bass and voice. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes; young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - slow dusty breakbeat, warm synth, delay guitar]\n\n[Verse 1 - raspy male vocal]\nBlok siódmy, klatka C\nTrzepak, który pamięta wszystko\nTu pierwszy raz zapaliłem\nTu pierwszy raz ktoś mnie zostawił\n\n[Verse 2 - deep low female vocal]\nBlok siódmy, czwarte piętro\nMama woła przez okno: obiad\nDzisiaj nikt już nie woła\nOkna mają nowe rolety\n\n[Chorus - call and response, both voices]\nWracam tam, gdzie nie ma już nas\n(Nie ma już nas)\nBetonowy raj, co miał nas przeżyć\n(Przeżył nas)\n\n[Guitar solo - echoing delay guitar, melancholic]\n\n[Bridge - drop to bass and voice]\nDzieci z naszego podwórka\nRozjechały się po świecie\nJedni w Londynie, drudzy w Dublinie\nTrzeci leżą na cmentarzu pod lasem\n\n[Chorus - both voices, fuller]\nWracam tam, gdzie nie ma już nas\n(Nie ma już nas)\nKlatka C, czwarte piętro, czas\n(Zatrzymał się)\n\n[Outro - breakbeat fades, dusty synth]\n",
+ "language": "pl",
+ "bpm": 84,
+ "keyscale": "Ab major",
+ "duration": 196,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1009,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Canny Alley",
+  "genre": "Polish cold wave / post-punk with rock guitars and analog electronics",
+  "youtube": "https://www.youtube.com/@CannyAlley",
+  "story_pl": "Zaczęliśmy w zawilgoconym garażu na obrzeżach miasta – czwórka znajomych z jednego blokowiska, grająca po nocnych zmianach, bo na prawdziwą salę prób nie było nas stać. Szymon, nasz chudy, rudy wokalista i gitarzysta w żółtych okularach, śpiewa zdartym, ostrym głosem, który częściej krzyczy, niż prosi. Marta, nasza druga wokalistka i gitarzystka, odpowiada mu niskim, spokojnym i chłodnym głosem, a Ola zza elektronicznych bębnów dokłada wysokie, przejrzyste chórki, które unoszą się nad nami wszystkimi. Bartek w skórzanej kurtce i za krótkiej koszulce trzyma nas w ryzach syntezatorami, a raz na jakiś czas mruczy gdzieś w tle niskie, prawie mnisze chóry. Gramy polską zimną falę z gitarowym brudem i analogową elektroniką – o wynajmowanych mieszkaniach, nocnych zmianach, hejcie w sieci i szukaniu kogoś w tłumie, czyli o tym, jak się żyje, kiedy dorosłość przyszła bez pukania. A tak naprawdę to nie istniejemy.",
+  "members": [
+    {"id": "R", "name": "Szymon", "role": "lead vocals, electric guitar",
+     "look": "a tall skinny young man in his late twenties with long straight ginger-red hair and slightly yellow-tinted round glasses",
+     "stage_clothes": "faded light-blue jeans, dark t-shirt",
+     "voice": "young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes"},
+    {"id": "M", "name": "Bartek", "role": "keyboards, analog synthesizers, drum pads; rare background hum",
+     "look": "a short plump young man in his late twenties with black hair and a natural, well-groomed waxed moustache",
+     "stage_clothes": "black leather jacket, a too-short faded band-logo t-shirt showing a small belly",
+     "voice": "deep warm male bass voice humming like a distant monk choir far in the background (used in only ~3 songs per album)"},
+    {"id": "B", "name": "Ola", "role": "electronic drums and percussion pads, backing vocals",
+     "look": "an average-looking fit young blonde woman in her twenties with metal dental braces and a small forearm tattoo",
+     "stage_clothes": "black tank top",
+     "voice": "young adult female vocal in her twenties, high clear airy soprano, sharp, crystalline and ethereal"},
+    {"id": "D", "name": "Marta", "role": "lead vocals, electric guitar, small synthesizer",
+     "look": "an attractive young woman in her late twenties with long brown hair, a nose ring, a lip piercing and dark smoky eye makeup",
+     "stage_clothes": "long flowing skirt, loose oversized knitted sweater",
+     "voice": "young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate"}
+  ]
+}

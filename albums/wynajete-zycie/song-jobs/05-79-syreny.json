@@ -1,0 +1,18 @@
+{
+ "slug": "79-syreny",
+ "title": "Syreny",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, slow heavy darkwave, distant air-raid siren synth, slow drum machine, cold synth pads, slow build to a crushing distorted guitar culmination with a wordless soaring female wail, only the siren synth and humming left at the end. Vocals: young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate; young adult female vocal in her twenties, high clear airy soprano, sharp, crystalline and ethereal; deep warm male bass voice humming like a distant monk choir far in the background. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - distant air raid siren synth, slow drum machine, deep male humming in background]\n\n[Verse 1 - deep low female vocal]\nW wiadomościach znowu mapa\nCzerwone strzałki, czarny dym\nJem kolację przed ekranem\nKtoś tam nie je od wielu dni\n\n[Verse 2 - deep low female vocal]\nMatka dzwoni: czy to blisko\nMówię: nie, to daleko stąd\nAle z każdym rokiem bliżej\nDaleko jest coraz bliżej, mamo\n\n[Chorus - slow, heavy]\nSyreny śpiewają kołysankę\nDla miast, które nie zasną już\nSyreny śpiewają nad nami\nA my udajemy, że to kurz\n\n[Interlude - deep male humming in background, cold synth pads]\n\n[Bridge - building slowly]\nIle jeszcze trzeba ziemi\nIle jeszcze trzeba łez\nŻeby ktoś w wysokim gmachu\nPowiedział wreszcie: dość\n\n[Climax - distorted guitars, high airy female vocal, wordless wail]\nAaa\n\n[Chorus - deep low female vocal, over heavy guitars]\nSyreny śpiewają kołysankę\nSłyszę je nawet przez sen\nSyreny śpiewają nad nami\nZanim znowu przyjdzie dzień\n\n[Outro - only the siren synth and deep male humming remain]\n",
+ "language": "pl",
+ "bpm": 72,
+ "keyscale": "C minor",
+ "duration": 236,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1005,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

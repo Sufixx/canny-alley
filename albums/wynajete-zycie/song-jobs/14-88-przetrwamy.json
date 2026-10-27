@@ -1,0 +1,18 @@
+{
+ "slug": "88-przetrwamy",
+ "title": "Przetrwamy",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, anthemic emotional post-punk, tom-heavy drums, chiming guitars, rising synths, soaring guitar solo, quiet bridge building to a triumphant climax with a soaring high female voice, guitars ringing out. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes; young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate; young adult female vocal in her twenties, high clear airy soprano, sharp, crystalline and ethereal; deep warm male bass voice humming like a distant monk choir far in the background. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - tom-heavy drums, chiming guitars, rising synth]\n\n[Verse 1 - raspy male vocal]\nBył rok, kiedy wszystko się zamknęło\nByłem sam w czterech ścianach\nBył rok, kiedy straciłem pracę\nI rok, kiedy straciłem tatę\n\n[Verse 2 - deep low female vocal]\nBył rok, kiedy nie wstawałam\nBył rok bez jednej łzy\nBył rok, kiedy ktoś zapukał\nI powiedział: jestem, wiesz\n\n[Chorus - both voices, anthemic]\nPrzetrwamy\nChoć nikt nam nie obiecał\nPrzetrwamy\nBo nie mamy innego wyjścia\n\n[Guitar solo - soaring, emotional]\n\n[Bridge - quiet, building, both voices]\nRęka w rękę przez zimę\nKrok za krokiem przez mrok\n\n[Climax - high airy female vocal soaring over full band]\nPrzetrwamy\nPrzetrwamy\n\n[Chorus - all voices, triumphant]\nPrzetrwamy\nChoć świat się chwieje pod stopami\nPrzetrwamy\nBo jesteśmy tu razem\n\n[Outro - deep male humming in background, guitars ringing]\n",
+ "language": "pl",
+ "bpm": 138,
+ "keyscale": "D minor",
+ "duration": 210,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1014,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

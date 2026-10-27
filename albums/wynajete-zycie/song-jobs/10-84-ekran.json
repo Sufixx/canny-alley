@@ -1,0 +1,18 @@
+{
+ "slug": "84-ekran",
+ "title": "Ekran",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, glacial synth-pop cold wave, shimmering synth arpeggios, steady electronic beat, glassy lead synth solo, sudden drop where the beat stops, rising build back into a soaring final chorus. Vocals: young adult female vocal in her twenties, high clear airy soprano, sharp, crystalline and ethereal; young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - shimmering synth arpeggios, steady electronic beat]\n\n[Verse 1 - high airy female vocal]\nBudzę się z twarzą w świetle\nNiebieskim jak zimny staw\nZanim powiem dzień dobry\nPrzewijam cudzy świat\n\n[Verse 2 - high airy female vocal]\nWszyscy są gdzieś na plaży\nWszyscy mają lepszy plan\nLajkuję cudze szczęście\nSiedząc w ciemności sama\n\n[Chorus - soaring, raspy male vocal backing]\nEkran, mój ekran\nOkno, co nie wpuszcza słońca\nEkran, mój ekran\nRozmawiam z tobą bez końca\n\n[Synth solo - glassy lead synth over pulsing bass]\n\n[Bridge - sudden drop, beat stops, voice and pad only]\nA gdyby tak wyłączyć\nNa jeden dzień, na jedną noc\nUsłyszeć własny oddech\nI czyjś prawdziwy głos\n\n[Build - drums return, rising]\n\n[Chorus - climax, both voices]\nEkran, mój ekran\nGaśnie i widzę w nim siebie\nEkran, mój ekran\nCzarne lustro, a w nim niebo\n\n[Outro - arpeggios fading]\n",
+ "language": "pl",
+ "bpm": 112,
+ "keyscale": "C# minor",
+ "duration": 232,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1010,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

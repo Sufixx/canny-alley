@@ -1,0 +1,18 @@
+{
+ "slug": "87-pod-prad",
+ "title": "Pod prąd",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, fast raw punk cold wave, buzzing distorted guitars, pounding drums, shouted gang vocals from the whole band, breakdown to bass and toms, fast raw guitar solo, abrupt stop. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - fast punk drums, buzzing guitars]\n\n[Verse 1 - raspy male vocal]\nMówili: siedź cicho\nMówili: nie wychylaj się\nMówili: tak już jest\nTaki jest ten świat i tyle\n\n[Verse 2 - raspy male vocal]\nRzuciłem pracę o czwartej\nBez planu, bez oszczędności\nStrach smakuje jak żelazo\nAle wolność smakuje lepiej\n\n[Chorus - shouted gang vocals]\nPod prąd, pod prąd\nPłyniemy razem pod prąd\nPod prąd, pod prąd\nNie zawrócimy stąd\n\n[Breakdown - sudden drop to bass and toms]\nRaz, dwa, trzy, cztery\nKażdy krok to mały bunt\n\n[Guitar solo - fast, raw, punk]\n\n[Chorus - shouted gang vocals, faster]\nPod prąd, pod prąd\nChoć woda zimna jak lód\nPod prąd, pod prąd\nNa drugim brzegu ktoś czeka tu\n\n[Outro - abrupt stop]\n",
+ "language": "pl",
+ "bpm": 178,
+ "keyscale": "G minor",
+ "duration": 189,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1013,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}

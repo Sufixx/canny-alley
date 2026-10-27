@@ -1,0 +1,18 @@
+{
+ "slug": "78-komentarze",
+ "title": "Komentarze",
+ "caption": "Polish cold wave band, post-punk with rock guitars and analog electronics, chorus-drenched clean and distorted electric guitars, melodic driving bass guitar, live drums layered with a drum machine, analog synthesizers, nervous angular noise-rock post-punk, jagged guitar riff, sudden full stops, calm spoken breakdown, chaotic feedback guitar solo, screamed final chorus, abrupt ending. Vocals: young adult male lead vocal in his late twenties, raspy sharp strained grunge voice like Kurt Cobain, cracking on high notes; young adult female lead vocal in her late twenties, deep low contralto, calm, gloomy, cold and intimate. raw live band recording, high fidelity, natural vocals, no autotune, in tune, clear Polish diction",
+ "lyrics": "[Intro - angular guitar riff, nervous hi-hats]\n\n[Verse 1 - raspy male vocal, shouted]\nCzytam pod zdjęciem psa\nŻe ktoś mi życzy śmierci\nKtoś z awatarem flagi\nKtoś, kto nie ma twarzy\n\n[Verse 2 - raspy male vocal]\nKażdy jest ekspertem\nKażdy sędzią i katem\nKciuk w górę za nienawiść\nSerduszko za strach\n\n[Chorus - loud, distorted]\nKomentarze, komentarze\nSpływa po ekranie jad\nKomentarze, komentarze\nKto tu nie jest botem, ja?\n\n[Breakdown - sudden stop, deep low female vocal, spoken, calm]\nZgłoś. Zablokuj. Przewiń.\nZgłoś. Zablokuj. Przewiń.\nZapomnij, że ktoś to napisał\nO trzeciej w nocy, sam\n\n[Noise guitar solo - chaotic, feedback]\n\n[Chorus - raspy male vocal, screamed]\nKomentarze, komentarze\nWyłączam, a dalej słyszę\nKomentarze, komentarze\nW mojej głowie nie ma ciszy\n\n[Outro - abrupt stop]\n",
+ "language": "pl",
+ "bpm": 172,
+ "keyscale": "F# minor",
+ "duration": 176,
+ "inference_steps": 8,
+ "shift": 3.0,
+ "seed": 1004,
+ "batch_size": 1,
+ "audio_format": "flac",
+ "model": "acestep-v15-xl-turbo",
+ "lm": "acestep-5Hz-lm-4B",
+ "thinking": true
+}
